@@ -1,0 +1,18 @@
+:root {
+    --main-theme-color: #373ef7;
+    --dark-bg-color: #f8fff9;
+    --heading-color: #0a0d14;
+    --paragraph-color: #637eba;
+}
+
+a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: var(--heading-color);
+    margin: 0;
+}
+
